@@ -1,6 +1,6 @@
 # Face Finder
 
-This is a project to train and generate text with GPT2 model.
+A simple face search implementation with "face_recognition" python library.
 
 ## Workspace Structure
 
